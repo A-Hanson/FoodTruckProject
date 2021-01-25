@@ -13,15 +13,7 @@ public class FoodTruckApp {
 		FoodTruckApp fta = new FoodTruckApp();
 		fta.collectUserInput();
 		fta.runMenu();
-//		FoodTruckApp ftt = new FoodTruckApp();
-//		ftt.listOfFoodTrucks[0] = new FoodTruck("Sally", "tacos", 3);
-//		ftt.listOfFoodTrucks[1] = new FoodTruck("Terry", "tacos", 4);
-//		ftt.listOfFoodTrucks[2] = new FoodTruck("Juan", "sausage", 5);
-//		ftt.listOfFoodTrucks[3] = new FoodTruck("Martas", "meats", 2);
-//		ftt.listOfFoodTrucks[4] = new FoodTruck("billy bob's", "burgers", 1);
-//		ftt.printListOfFoodTrucks();
-//		ftt.printAverageRating();
-//		ftt.printHighestRatedTruck();
+
 
 	}
 
